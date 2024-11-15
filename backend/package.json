@@ -1,0 +1,14 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "toolpad-studio:dev": "toolpad-studio dev ./my-toolpad-app",
+    "toolpad-studio:build": "toolpad-studio build ./my-toolpad-app",
+    "toolpad-studio:start": "toolpad-studio start ./my-toolpad-app"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
